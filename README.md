@@ -1,4 +1,4 @@
-cocos2d-x_LetterAnimationLabel
+#cocos2d-x_LetterAnimationLabel
 
 cocos2d-x用の文字表示アニメーション可能なラベルです。不完全ですが、振り仮名表示に対応。
 
